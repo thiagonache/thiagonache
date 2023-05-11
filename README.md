@@ -1,6 +1,7 @@
 ## About Me
 
 Apart from my 15+ years of experience in web applications, infrastructure, and high-performance backend development, I am keenly interested in always exploring the latest available tooling. I have extensive experience designing scalable solutions in AWS and GCP. I am currently deepening my knowledge and experience in Go, and I am also an active contributor to open source projects. Additionally, I worked as a tech reviewer for O'Reilly. Most of all, I am motivated by helping clients solve their toughest software engineering problems.
+
 Please contact me if you are currently dealing with a challenge that matches my expertise.
 
 <!-- Badges -->
