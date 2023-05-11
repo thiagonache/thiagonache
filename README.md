@@ -14,7 +14,7 @@ Please contact me if you are currently dealing with a challenge that matches my 
 
 ## GitHub Statistics
 
-![Thiago Carvalho's GitHub statistics.](https://readme-stats-one-phi.vercel.app/api?username=thiagonache&show_icons=true&theme=gruvbox)
+![Thiago Carvalho's GitHub statistics.](https://readme-stats-one-phi.vercel.app/api?username=thiagonache&show_icons=true&theme=gruvbox&rank_icon=github)
 
 ![Thiago Carvalho's Most Used Languages](https://readme-stats-one-phi.vercel.app/api/top-langs/?username=thiagonache&layout=compact&theme=gruvbox)
 
