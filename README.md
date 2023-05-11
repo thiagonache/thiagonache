@@ -12,9 +12,9 @@ Apart from my 15+ years of experience in web applications, infrastructure, and h
 
 ## GitHub Statistics
 
-![Thiago Carvalho's GitHub statistics.](https://readme-stats-lojuc5qs6-thiagonache.vercel.app/api?username=thiagonache&show_icons=true&theme=gruvbox)
+![Thiago Carvalho's GitHub statistics.](https://readme-stats-git-main-thiagonache.vercel.app/api?username=thiagonache&show_icons=true&theme=gruvbox)
 
-![Thiago Carvalho's Most Used Languages](https://readme-stats-lojuc5qs6-thiagonache.vercel.app/api/top-langs/?username=thiagonache&layout=compact&theme=gruvbox)
+![Thiago Carvalho's Most Used Languages](https://readme-stats-git-main-thiagonache.vercel.app/api/top-langs/?username=thiagonache&layout=compact&theme=gruvbox)
 
 <!--
 **thiagonache/thiagonache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
