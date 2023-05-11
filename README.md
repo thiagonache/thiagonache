@@ -1,14 +1,10 @@
 ## About Me
 
-Hello! My name is Thiago Carvalho. I'm a software engineer with more than 15 years of experience on IT.
+My name is Thiago Carvalho, and I am a highly skilled software engineer with over 15 years of experience in IT. I am passionate about helping clients overcome complex challenges and finding innovative solutions to problems that others may have struggled with. My ability to solve challenging problems has earned me a reputation for being a reliable and effective problem-solver.
 
-As a software engineer with a strong background in web applications, infrastructure, and backend development, I have gained extensive experience in designing and implementing scalable and reliable solutions. With expertise in both Google Cloud Platform (GCP) and Amazon Web Services (AWS), I have a deep understanding of cloud-based technologies and how they can be leveraged to build efficient and cost-effective applications.
+My background is in web applications, infrastructure, and backend development. I have experience in designing and implementing scalable solutions in both GCP and AWS. I understand cloud-based technologies and how they can be leveraged to build cost-effective applications. I specialize in Go development, a powerful programming language for building high-performance backend systems.
 
-My passion for software engineering led me to specialize in Go development, a programming language that I find particularly powerful and efficient for building high-performance backend systems. With my extensive experience in web application development and infrastructure, I have a deep understanding of the full stack and can design and implement systems that are both scalable and performant.
-
-Throughout my career, I have worked on a variety of projects ranging from small web applications to large-scale enterprise systems. I am experienced in agile methodologies, and have a proven track record of delivering high-quality software solutions that meet the needs of both users and stakeholders.
-
-I am always looking for new challenges and opportunities to learn and grow. I am excited about the possibility of working with a team of talented engineers and contributing to the success of a dynamic and innovative company.
+I have worked on a variety of projects ranging from small web applications to large-scale enterprise systems. I am experienced in agile methodologies and have a track record of delivering software solutions that meet the needs of users and stakeholders. I am always looking for new challenges and opportunities to learn and grow, and am excited about the possibility of contributing to the success of a dynamic company.
 
 <!-- Badges -->
 <p>
