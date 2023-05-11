@@ -1,6 +1,6 @@
 ## About Me
 
-Hello! My name is Thiago Carvalho. I'm an software engineer with more than 15 years of experience on IT.
+Hello! My name is Thiago Carvalho. I'm a software engineer with more than 15 years of experience on IT.
 
 As a software engineer with a strong background in web applications, infrastructure, and backend development, I have gained extensive experience in designing and implementing scalable and reliable solutions. With expertise in both Google Cloud Platform (GCP) and Amazon Web Services (AWS), I have a deep understanding of cloud-based technologies and how they can be leveraged to build efficient and cost-effective applications.
 
