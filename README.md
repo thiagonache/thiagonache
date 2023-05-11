@@ -1,10 +1,6 @@
 ## About Me
 
-As a software engineer with over 15 years of experience in IT and a proven track record as a tech reviewer for O'Reilly, I am passionate about helping clients overcome complex challenges and finding innovative solutions to problems that others may have struggled with.
-
-My background is in web applications, infrastructure, and backend development, and I have extensive experience designing and implementing scalable solutions in both GCP and AWS. With a deep understanding of cloud-based technologies and how they can be leveraged to build cost-effective applications, I specialize in Go development, a powerful programming language for building high-performance backend systems.
-
-Throughout my career, I have worked on a variety of projects ranging from small web applications to large-scale enterprise systems. I am experienced in agile methodologies and have a proven track record of delivering software solutions that meet the needs of users and stakeholders. As a lifelong learner, I am always seeking new challenges and opportunities to grow my skills and make meaningful contributions to the success of dynamic companies.
+Apart from my 15+ years of experience in web applications, infrastructure, and high-performance backend development, I am keenly interested in always exploring the latest available tooling. I have extensive experience designing scalable solutions in AWS and GCP. I am currently deepening my knowledge and experience in Go, and I am also an active contributor to open source projects. Additionally, I worked as a tech reviewer for O'Reilly. Most of all, I am motivated by helping clients solve their toughest software engineering problems. Please contact me if you are currently dealing with a challenge that matches my expertise.
 
 <!-- Badges -->
 <p>
